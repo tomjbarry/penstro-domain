@@ -1,0 +1,14 @@
+package com.py.py.domain.enumeration;
+
+public enum DEAL_TYPE {
+	GENERIC,
+	APPRECIATE,
+	PROMOTE,
+	OFFER,
+	PURCHASE,
+	CHARGE,
+	ESCROW_REFUND,
+	ESCROW_TRANSFER,
+	ADMIN_ADD,
+	ADMIN_REMOVE
+}
